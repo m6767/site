@@ -1,0 +1,87 @@
+body{
+    background: rgb(251, 238, 218);
+}
+
+h1 {
+    font-size: 80px; 
+    color:  rgb(68, 66, 66); 
+    padding-left: 60%;
+    background: rgb(55, 126, 94) url("styles/style6.jpg");
+}
+
+h3{
+    color: rgb(55, 126, 94);    
+}
+
+h2 {
+    text-align: center
+}
+
+footer{
+    text-align: center
+}
+
+nav {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0; 
+    overflow: hidden;
+    background-color: rgb(55, 126, 111);
+}
+
+nav a{
+  float: left;
+  font-weight: bold;
+  color: rgb(253, 240, 159);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom: 5px rgb(55, 126, 111);
+  font-size: 17px;
+}
+    
+
+nav li{
+    float: left;
+}
+
+h1 a{
+    color:  rgb(68, 66, 66); 
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article {
+    margin: auto;
+    width: 30%;
+    font-size: 20px;
+    
+}
+
+div{
+  text-align: center;
+  background: rgb(55, 126, 111);
+  width: 20%;
+  height: 20%;
+}
+float: left;
+    text-decoration: none;
+    font-family: Arial, Helvetica;
+    color:rgb(55, 126, 111);
+    text-align: center;
+    display: block;
+    padding: 14px 16px;
+    background-color: rgb(237, 176, 86);
+    border-bottom: 5px rgb(55, 126, 111);
+    font-size: 17px;
+
+
+font-family: Trattatello, fantasy;
+display: inline-block;
+color: rgb(13, 76, 131);
+background: rgb(251, 238, 218);
+rgba(73, 177, 172, 0.379);
